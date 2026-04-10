@@ -1,4 +1,5 @@
 Kleines Web-Spiel, das ich mit HTML, CSS und JavaScript entwickelt habe.
 
 Start:
-Einfach die Datei "index.html" im Browser öffnen.
+Das Spiel kann direkt im Browser über GitHub Pages gestartet werden:
+[Link einfügen]
